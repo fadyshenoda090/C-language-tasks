@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683825428 source:d:\swe-r3-c\123 malloc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

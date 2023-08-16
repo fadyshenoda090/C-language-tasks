@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1681887356 source:d:\swe-r3-c\extended keys\main.c
+	<stdio.h>
+	<stdlib.h>
+

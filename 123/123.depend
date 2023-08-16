@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1682751395 source:d:\swe-r3-c\123\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1682766362 source:f:\swe fundamentals projects\swe-r3-c\123\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

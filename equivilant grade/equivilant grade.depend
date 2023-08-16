@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1681155002 source:d:\swe-r3-c\equivilant grade\main.c
+	<stdio.h>
+	<stdlib.h>
+
