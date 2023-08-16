@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1682603988 source:d:\swe-r3-c\struct 5 emps\main.c
+	<stdio.h>
+	<stdlib.h>
+

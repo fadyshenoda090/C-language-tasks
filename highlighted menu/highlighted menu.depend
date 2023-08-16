@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1681894458 source:d:\swe-r3-c\highlighted menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
